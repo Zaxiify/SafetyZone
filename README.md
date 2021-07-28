@@ -1,7 +1,7 @@
 # SafetyZone Sorce Code
 **READ THE LICENSE: https://github.com/VexdStudios/SafetyZone/blob/main/LICENSE.md**
 
-**FOR THOSE WHO WISH TO PLAY SAFETY ZONE, HERE'S WAT YOU NEED:** ***https://vexedstudios.itch.io/safetyzone***
+**FOR THOSE WHO WISH TO PLAY SAFETY ZONE, HERE'S WHAT YOU NEED:** ***https://vexedstudios.itch.io/safetyzone***
 
 **ONLY FOR LOOKING NO DOWNLOADING AND REUPLOADING!!!!!!!!!!**
 **THANKS**
