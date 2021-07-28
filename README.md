@@ -12,3 +12,6 @@
 
 ![Logo](https://vexedstudios.netlify.app/e0ec71cf1398eec9d68f28744185944a.png)
 
+Copywrite © VexedStudios All Rights Reserved!
+
+🌎: *https://bit.ly/VexedStudios*
