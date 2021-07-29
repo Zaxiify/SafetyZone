@@ -1,18 +1,16 @@
-# SafetyZone Sorce Code
+# Safety Zone Source Code
 **READ THE LICENSE:** ***https://github.com/VexdStudios/SafetyZone/blob/main/LICENSE.md***
 
-**FOR THOSE WHO WISH TO PLAY SAFETY ZONE, HERE'S WHAT YOU NEED:** ***https://vexedstudios.itch.io/safetyzone***
+**If you came here to play safety zone, go here:** ***https://vexedstudios.itch.io/safetyzone***
 
-**ONLY FOR LOOKING NO DOWNLOADING AND REUPLOADING!!!!!!!!!!**
-**THANKS**
+**You can **only** edit the code if you think it will be helpful to the game or any parts of the game itself.**
+**Thanks!**
 
+Safety Zone is a mainly multiplayer FPS Shooter game based in a futuristic scene.
 
-**THIS REPO IS ONLY FOR EDUCATIONAL USE ***ONLY***!!!!!!!!!!!**
+**Please keep in mind, this is still in VERY VERY early development and it is not even close to what the actual game is going to turn out to be. **
 
-
-
-
-Copywrite © VexedStudios All Rights Reserved!
+Copyright © Vexed Studios, All Rights Reserved.
 
 🌎: *https://bit.ly/VexedStudios*
 
